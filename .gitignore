@@ -1,0 +1,16 @@
+# Python-specific ignores
+__pycache__/
+*.py[cod]
+.Python
+.env
+*.log
+*.bak
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+
+.dvc/cache/
+.dvc/.gitignore
